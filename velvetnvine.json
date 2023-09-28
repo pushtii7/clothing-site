@@ -1,0 +1,116 @@
+[
+    {
+        "name":"sweatshirt",
+        "price":899,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1972&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+        "name":"t-shirt",
+        "price":599,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1608175602591-d1807a0850dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+        "name":"sunglasses",
+        "price":399,
+        "category":"others",
+        "url":"https://images.unsplash.com/photo-1610136649349-0f646f318053?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+        "name":"t-shirt",
+        "price":10,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1566915189815-b72e74007040?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+        "name":"t-shirt",
+        "price":300,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1603065881771-8aa5eb1ed8bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1956&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    },
+    {
+        "name":"sweatshirt",
+        "price":300,
+        "category":"fruits",
+        "url":"https://images.unsplash.com/photo-1547774475-cc8bce3a768c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+        "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+    }
+,
+{
+    "name":"sweatshirt",
+    "price":500,
+    "category":"fruits",
+    "url":"https://images.unsplash.com/photo-1547774475-cc8bce3a768c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+    "name":"jeans",
+    "price":100,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1598554747436-c9293d6a588f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+    "name":"jeans",
+    "price":110,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+    "name":"jeans",
+    "price":50,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1603217192634-61068e4d4bf9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+    "name":"scrunchies",
+    "price":20,
+    "category":"others",
+    "url":"https://images.unsplash.com/photo-1630081757603-a46d414be089?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+    "name":"watch",
+    "price":120,
+    "category":"others",
+    "url":"https://images.unsplash.com/photo-1622434641406-a158123450f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1904&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+,
+{
+    "name":"t-shirt",
+    "price":200,
+    "category":"fruits",
+    "url":"https://plus.unsplash.com/premium_photo-1682342786341-239a41287013?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+},
+{
+    "name":"jeans",
+    "price":100,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1582552938357-32b906df40cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+},
+{
+    "name":"jeans",
+    "price":30,
+    "category":"Vegetable",
+    "url":"https://images.unsplash.com/photo-1503623758111-863eb2abd7a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "description":"Calories: 18 kcal Carbohydrates: 3.9 grams Dietary Fiber: 1.2 grams Sugars: 2.6 grams Protein: 0.9 grams Fat: 0.2 grams"
+}
+
+
+]
